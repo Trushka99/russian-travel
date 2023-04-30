@@ -3,7 +3,7 @@
 @import url(block/header/header.css);
 @import url(block/header/__lang-menu/header__lang-menu.css);
 @import url(block/header/__lang-link/header__lang-link.css);
-@import url(block/header/logo/header__logo.css);
+@import url(block/header/__logo/header__logo.css);
 @import url(block/header/__lang-link/_decoration/header__lang-link_decoration_underline.css);
 @import url(block/root/root.css);
 @import url(vendor/fonts.css);
