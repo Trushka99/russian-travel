@@ -1,0 +1,19 @@
+.header__lang-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  align-content: center;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 18px;
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang-menu {
+  }
+}
+@media screen and (max-width: 1023px) {
+    .header__lang-menu {
+    }
+  }
+  

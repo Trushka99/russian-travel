@@ -1,0 +1,14 @@
+.cover__overlay {
+  color: inherit;
+  display: block;
+  width: 100%;
+  height: inherit;
+  max-height: inherit;
+  text-decoration: none;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+

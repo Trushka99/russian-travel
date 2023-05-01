@@ -1,0 +1,13 @@
+.place__image {
+  grid-area: image;
+  margin: 0;
+  padding: 0;
+  object-fit: contain;
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 767px) {
+  .place__image {
+    margin-bottom: 32px;
+  }
+}
