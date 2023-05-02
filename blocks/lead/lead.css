@@ -7,19 +7,19 @@
   flex-direction: column;
   align-content: center;
 }
-@media screen and (max-width: 1279px) {
+@media (max-width: 1279px) {
   .lead {
     max-width: 90.625%;
-    margin-bottom: 53px;
+    margin-bottom: 114px;
   }
 }
-@media screen and (max-width: 1023px) {
+@media (max-width: 1023px) {
   .lead {
     max-width: 100%;
-    margin-bottom: 69px;
+    margin-bottom: 88px;
   }
 }
-@media screen and (max-width: 767px) {
+@media (max-width: 767px) {
   .lead {
     margin-bottom: 64px;
   }

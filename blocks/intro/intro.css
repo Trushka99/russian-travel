@@ -12,12 +12,12 @@
 @media (max-width: 1023px) {
   .intro {
     max-width: calc(100% - 48px);
-    margin-bottom: 137px;
+    margin-bottom: 88px;
   }
 }
 @media (max-width: 767px) {
   .intro {
     margin-bottom: 64px;
-    max-width: 90%;
+    max-width: 288px;
   }
 }

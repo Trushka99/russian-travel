@@ -11,8 +11,7 @@
   margin: 0;
 }
 .footer__link:hover {
-  text-decoration: none;
-  color: #aaaaaa;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {

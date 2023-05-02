@@ -10,16 +10,17 @@
 @media screen and (max-width: 1279px) {
   .header {
     max-width: 90.625%;
-    margin-bottom: 87px;
+    margin-bottom: 48px;
   }
 }
-@media screen and (max-width: 1023px) {
+@media (max-width: 1023px) {
   .header {
-    margin-bottom: 69px;
+    max-width: 93.8%;
   }
 }
 @media screen and (max-width: 767px) {
   .header {
     margin-bottom: 48px;
+    padding-top: 16px;
   }
 }

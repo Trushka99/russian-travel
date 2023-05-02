@@ -6,7 +6,7 @@
   position: relative;
   justify-content: center;
   align-items: center;
-  height: 740px;
+  min-height: 740px;
   max-width: 1184px;
   margin: 0 auto;
   display: flex;
@@ -30,20 +30,19 @@
 }
 @media (max-width: 1279px) {
   .cover {
-    max-height: 63vmax;
+    min-height: 63vmax;
     width: 100%;
   }
 }
 @media (max-width: 1023px) {
   .cover {
-    max-height: 63vmax;
     margin-bottom: 88px;
   }
 }
 
 @media (max-width: 767px) {
   .cover {
-    height: 32vmax;
+    min-height: 25vmax;
     margin-bottom: 64px;
   }
 }
